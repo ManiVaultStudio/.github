@@ -1,5 +1,3 @@
-![LogoWithText1](https://github.com/ManiVaultStudio/PublicWiki/assets/2978176/1944cb67-c8c1-4464-9178-aa8c4bb61c48)
-
 ## Get Involved
 
 ManiVault Studio is a flexible and extensible open-source visual analytics framework for analyzing high-dimensional data. 
