@@ -10,6 +10,6 @@ Users looking to develop custom visualization plugins for the system can look at
 * [Developing a first plugin](https://github.com/ManiVaultStudio/PublicWiki/wiki/Writing-your-first-Plugin)
 * [Example plugins](https://github.com/ManiVaultStudio/ExamplePlugins)
 
-Visit the [Wiki](https://github.com/ManiVaultStudio/PublicWiki) to learn more!
+Visit the [Wiki](https://github.com/ManiVaultStudio/PublicWiki/wiki/) to learn more!
 
 ----
