@@ -11,5 +11,3 @@ Users looking to develop custom visualization plugins for the system can look at
 * [Example plugins](https://github.com/ManiVaultStudio/ExamplePlugins)
 
 Visit the [Wiki](https://github.com/ManiVaultStudio/PublicWiki/wiki/) to learn more!
-
-----
