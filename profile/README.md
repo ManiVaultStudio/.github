@@ -17,7 +17,7 @@ Users looking to develop custom visualization plugins for the system can look at
 Visit the [Wiki](https://github.com/ManiVaultStudio/PublicWiki/wiki/) to learn more!
 
 <!---------------------------------------------------------------------------->
-[Link]: https://github.com/ManiVaultStudio/Installer/releases/download/offline_vis_2023/ManiVault_vis_2023_offline.exe 'Download the Installer'
+[Link]: https://github.com/ManiVaultStudio/Releases/releases/download/ManiVaultStudio_0.9_offline/ManiVault_0.9_offline.exe 'Download the Installer'
 <!---------------------------------------------------------------------------->
 [Button Example]: https://img.shields.io/badge/Title-37a779?style=for-the-badge
 [Button Icon]: https://img.shields.io/badge/Installer-222222?style=for-the-badge&logoColor=white&logo=DocuSign
